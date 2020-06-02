@@ -23,7 +23,7 @@
 
   //loop structure: a) creation of an indexing variable b) a run consition c) change to the indexing variable
 
-  //count to 10 from 0 and lof the numbers:
+  //count to 10 from 0 and log the numbers:
   for (let i = 0; i <= 10; i++){
       console.log(i);
   } //checks condition, logs, changes index variable
